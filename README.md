@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub profile!
 
-I’m passionate about building robust, scalable platforms while fostering a sustainable DevOps culture. With a knack for learning and an adaptive mindset, I enjoy solving complex infrastructure challenges and enabling teams to operate at their best. Here’s a glimpse into my journey:
+I’m passionate about building robust, scalable platforms by fostering a sustainable DevOps ecosystem. With a knack for learning and an adaptive mindset, I enjoy solving complex infrastructure challenges and enabling teams to operate at their best. Here’s a glimpse into my journey:
 
 ---
 
