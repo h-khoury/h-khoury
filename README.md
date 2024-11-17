@@ -22,6 +22,7 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 
 ### 🎓 **Education & Certifications**  
 
+- **MBA in Data Sceience @ TAU**
 - **B.Sc in Computer Science & Information Systems @ Technion**
 - **AWS Solution Architect - Associate**
 
