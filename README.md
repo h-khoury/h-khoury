@@ -7,14 +7,13 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 ---
 
 ### 💼 **Experience**
-
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 - **Cisco**  
   *Platform Engineer & SRE Roles*  
   - Developing Cloud Insights Infrastrcture & SaaS Platform 
   - Developing CNAPP & GenAI Incubation platform & IDP  
   - Comprehensive CI/CD & GitOps solutions  
   - Cloud services, Infra migrations, Microservice security  
-
 - **Hewlett Packard Enterprise**  
   *DevOps & SRE Roles*  
   - Building and managing GitOps pipelines  
@@ -60,6 +59,7 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/) 
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/) 
 [![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/) 
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)](https://www.clickhouse.com/) 
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/) 
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B49DF?style=flat&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 
