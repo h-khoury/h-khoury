@@ -10,7 +10,6 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 
 - **Cisco** 
   *Platform Engineer & DevOps Roles*
-  [![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/)
   - Developing Cloud Insights Infrastrcture & SaaS Platform 
   - Developing CNAPP & GenAI Incubation platform & IDP  
   - Comprehensive CI/CD & GitOps solutions  
