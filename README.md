@@ -8,8 +8,8 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 
 ### 💼 **Experience**
 
-- **Cisco**
-*Platform Engineer & DevOps Roles*
+- **Cisco**  
+  *Platform Engineer & SRE Roles*  
   - Developing Cloud Insights Infrastrcture & SaaS Platform 
   - Developing CNAPP & GenAI Incubation platform & IDP  
   - Comprehensive CI/CD & GitOps solutions  
