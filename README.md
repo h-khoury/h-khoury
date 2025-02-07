@@ -1,4 +1,4 @@
-# Platform Engineer & SRE
+# Senior DevOps & SRE
 
 👋 Welcome to my GitHub profile!
 
@@ -9,7 +9,8 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 ### 💼 **Experience**
 
 - **Cisco**  
-  *Platform Engineer & SRE*  
+  * SRE Platform Engineer & DevOps Roles*  
+  - Developing Cloud Insights Infrastrcture & SaaS Platform 
   - Developing CNAPP & GenAI Incubation platform & IDP  
   - Comprehensive CI/CD & GitOps solutions  
   - Cloud services, Infra migrations, Microservice security  
