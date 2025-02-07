@@ -7,7 +7,7 @@ I’m passionate about building robust, scalable platforms by fostering a sustai
 ---
 
 ### 💼 **Experience**
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)](https://cisco.com)
 - **Cisco**  
   *Platform Engineer & SRE Roles*  
   - Developing Cloud Insights Infrastrcture & SaaS Platform 
