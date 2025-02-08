@@ -18,7 +18,7 @@ Here’s a glimpse into my journey:
   - Cloud services, Infra migrations, Microservice security  
 - **Hewlett Packard Enterprise**  
   *DevOps & SRE Roles*  
-  - Building and managing GitOps pipelines  
+  - Building and managing CICD/GitOps pipelines  
   - Cloud migrations and observability solutions  
   - Infrastructure automation with IaC
 
@@ -27,6 +27,7 @@ Here’s a glimpse into my journey:
 - **MBA in Data Sceience @ TAU**
 - **B.Sc in Computer Science & Information Systems @ Technion**
 - **AWS Solution Architect - Associate**
+- **ISTQB CTFL Certificate - Software Testing**
 
 ---
 
