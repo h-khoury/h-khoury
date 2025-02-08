@@ -1,4 +1,4 @@
-# Senior DevOps & SRE
+# Senior Platform Engineer & SRE
 
 👋 Welcome to my GitHub profile!
 
